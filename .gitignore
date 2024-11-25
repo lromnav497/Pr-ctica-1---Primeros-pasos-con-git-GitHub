@@ -1,0 +1,36 @@
+# Sistema operativo
+*.DS_Store
+Thumbs.db
+
+# Archivos de log
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencias
+/node_modules
+/bower_components
+
+# Compilación de producción
+/dist
+/build
+
+# Archivos de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Archivos de configuración de IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Archivos temporales
+*.tmp
+*.temp
